@@ -32,7 +32,7 @@ This will start both the backend server (port 3001) and frontend client (port 30
 
 3. **Access the application:**
 - Frontend: [http://localhost:3000](http://localhost:3000/) (at port 3000)
-- Backend API: http://localhost:3001 (at port 3001)
+- Backend API -> at port 3001
 
 ##  Architecture
 
@@ -120,13 +120,13 @@ src/
 
 Once the backend is running on port 3001, you can test these endpoints in your browser:
 
-- Wallets: http://localhost:3001/api/transactions
+- Wallets: localhost:3001/api/transactions
 - ![image](https://github.com/user-attachments/assets/13335f47-e307-4a5d-96ba-cfb31a3c13e7)
 
-- Transactions: http://localhost:3001/api/wallets
+- Transactions: localhost:3001/api/wallets
 - ![image](https://github.com/user-attachments/assets/92060773-0737-4606-9a3b-e8ed613ee7db)
 
-- Historical Data: http://localhost:3001/api/transactions/historical?hours=24
+- Historical Data: localhost:3001/api/transactions/historical?hours=24
 - ![image](https://github.com/user-attachments/assets/78bd4314-3772-4c39-a27f-0f7711131abb)
 
 
@@ -140,12 +140,12 @@ Database file: `tokenwise.db` (created automatically)
 
 ## Screenshots 
 ![Screenshot 2025-07-09 230824](https://github.com/user-attachments/assets/f2aba4d3-dda3-42c7-aa26-16c055f6ac2e)
+![Screenshot 2025-07-09 231327](https://github.com/user-attachments/assets/f44dd3e0-12e1-4cb7-b10d-eecb371592b7)
+![Screenshot 2025-07-09 231405](https://github.com/user-attachments/assets/91e0cdfd-9ec7-4025-b7a8-7b7acfea7e79)
+![Screenshot 2025-07-09 231421](https://github.com/user-attachments/assets/da622b7c-900f-47c0-868e-a2cddd28effa)
+![Screenshot 2025-07-09 231455](https://github.com/user-attachments/assets/79ff150b-4c0f-4420-8025-d791968d886f)
+![Screenshot 2025-07-09 231510](https://github.com/user-attachments/assets/8670e907-0d46-4eaf-9594-cddac01724ee)
 
-![image](https://github.com/user-attachments/assets/167fcb6b-9452-4c56-ba32-e26394e0920f)
-![image](https://github.com/user-attachments/assets/3287731f-36f6-4e3b-8196-63f895623635)
-![image](https://github.com/user-attachments/assets/c4066a1e-0a67-4d43-a1d8-c170439fd6ef)
-![image](https://github.com/user-attachments/assets/0caf7ec8-5835-45bc-8ac3-d600c7fc116f)
-![image](https://github.com/user-attachments/assets/6fbc3780-f823-47d8-86f8-0eec5d4dd9af)
 
 
 ## 📈 Data Export
