@@ -120,9 +120,15 @@ src/
 
 Once the backend is running on port 3001, you can test these endpoints in your browser:
 
-Wallets: http://localhost:3001/api/wallets
-Transactions: http://localhost:3001/api/transactions
-Historical Data: http://localhost:3001/api/transactions/historical?hours=24
+- Wallets: http://localhost:3001/api/transactions
+- ![image](https://github.com/user-attachments/assets/13335f47-e307-4a5d-96ba-cfb31a3c13e7)
+
+- Transactions: http://localhost:3001/api/wallets
+- ![image](https://github.com/user-attachments/assets/92060773-0737-4606-9a3b-e8ed613ee7db)
+
+- Historical Data: http://localhost:3001/api/transactions/historical?hours=24
+- ![image](https://github.com/user-attachments/assets/78bd4314-3772-4c39-a27f-0f7711131abb)
+
 
 ### Database
 
@@ -133,6 +139,8 @@ The application uses SQLite for data storage with the following tables:
 Database file: `tokenwise.db` (created automatically)
 
 ## Screenshots 
+![Screenshot 2025-07-09 230824](https://github.com/user-attachments/assets/f2aba4d3-dda3-42c7-aa26-16c055f6ac2e)
+
 ![image](https://github.com/user-attachments/assets/167fcb6b-9452-4c56-ba32-e26394e0920f)
 ![image](https://github.com/user-attachments/assets/3287731f-36f6-4e3b-8196-63f895623635)
 ![image](https://github.com/user-attachments/assets/c4066a1e-0a67-4d43-a1d8-c170439fd6ef)
