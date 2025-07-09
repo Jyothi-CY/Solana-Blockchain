@@ -145,6 +145,8 @@ Database file: `tokenwise.db` (created automatically)
 ![Screenshot 2025-07-09 231421](https://github.com/user-attachments/assets/da622b7c-900f-47c0-868e-a2cddd28effa)
 ![Screenshot 2025-07-09 231455](https://github.com/user-attachments/assets/79ff150b-4c0f-4420-8025-d791968d886f)
 ![Screenshot 2025-07-09 231510](https://github.com/user-attachments/assets/8670e907-0d46-4eaf-9594-cddac01724ee)
+![Screenshot 2025-07-10 003011](https://github.com/user-attachments/assets/e49fdc90-c7b2-4c30-b4e7-8b310daa8fb9)
+
 
 
 
