@@ -176,6 +176,4 @@ This project was built as part of a technical assessment. For production use, co
 
 ## 📄 License
 
-MIT License - see `LICENSE` file for details.
-
----
+MIT License - see LICENSE file for details.
